@@ -1,5 +1,7 @@
 # Hi I'm Arvin 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=ArvinYang1925&color=blue&style=flat)
+
 🎯 **Fullstack Developer | TypeScript Lover | Learning Everyday**
 
 I'm Arvin Yang, a passionate **fullstack developer** building modern web applications with:
@@ -14,6 +16,14 @@ I'm Arvin Yang, a passionate **fullstack developer** building modern web applica
 - Building an **online course platform** 🧑🏻‍💻
 - Improving **API design** and **authentication systems**
 - Exploring **Zod**, **TypeORM**, and advanced TypeScript patterns
+
+---
+
+## 🏷 Personal Badges
+
+![Fullstack Developer](https://img.shields.io/badge/Role-Fullstack_Developer-blueviolet)
+![TypeScript Lover](https://img.shields.io/badge/TypeScript-Lover-3178C6)
+![Learning Everyday](https://img.shields.io/badge/Learning-Everyday-yellowgreen)
 
 ---
 
