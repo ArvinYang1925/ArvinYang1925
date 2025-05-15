@@ -49,7 +49,7 @@ I'm Arvin Yang, a passionate **fullstack developer** building modern web applica
 
 ## ⌛ WakaTime Stats
 
-[![Arvin's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=018e3e23-9880-4c34-bd3a-8272da08b7a0&layout=compact&theme=radical)](https://wakatime.com/@018e3e23-9880-4c34-bd3a-8272da08b7a0)
+[![Arvin's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=arvinyang&layout=compact&theme=radical)](https://wakatime.com/@arvinyang)
 
 ---
 
