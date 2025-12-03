@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ArvinYang1925&color=blue&style=flat)
 
-## 🔧 Backend Engineer
+## 💻 Backend Engineer
 
 I'm Arvin Yang — a **backend engineer** focused on building scalable, reliable, and maintainable backend systems.
 
