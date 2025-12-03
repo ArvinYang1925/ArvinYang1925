@@ -48,6 +48,8 @@ and bringing ideas to life through well-structured backend systems.
 ![Render](https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=black)
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
 
 ---
 
