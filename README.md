@@ -53,20 +53,25 @@ and bringing ideas to life through well-structured backend systems.
 
 ---
 
-## 📊 GitHub Stats
+## 📚 Side Projects & Technical Articles
 
-![Arvin's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ArvinYang1925&show_icons=true&theme=radical)
+### **Kaiso – Online Course Platform**
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ArvinYang1925&layout=compact&theme=radical)
+An online course platform designed with scalability and clean architecture in mind.  
+Built using **Node.js**, **TypeScript**, **Express**, **TypeORM**, and **PostgreSQL**, with production deployment on **Render**.
+
+🔗 Live Demo: https://kaiso-meow-frontend.onrender.com  
+🔗 Backend Repo: https://github.com/ArvinYang1925/kaiso-meow-backend
+
+### **2025 iThome Ironman – 30 Days of TypeScript & Node.js**
+
+A 30-day technical writing series covering backend environment setup, TypeScript techniques,  
+database migrations, API design, file uploads, and AWS deployment.
+
+🔗 Article Series: https://ithelp.ithome.com.tw/users/20178384/ironman/8709
 
 ---
 
-## ⌛ WakaTime Stats
-
-![Arvin's WakaTime Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=arvinyang&layout=compact&theme=radical)
-
----
-
-## 📬 Reach Me
+## 📬 Contact Me
 
 📧 Email: **arvinyang1925@gmail.com**
